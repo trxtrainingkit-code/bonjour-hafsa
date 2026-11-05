@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Every HTML page explicitly declares noindex, nofollow. No sitemap is submitted.
